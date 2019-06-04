@@ -1,0 +1,12 @@
+{
+  "name": "@hub/package-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@hub/package-1": "1.0.0"
+  },
+  "scripts": {
+    "test": "echo from package-2"
+  },
+  "license": "MIT"
+}
