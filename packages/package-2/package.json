@@ -1,9 +1,9 @@
 {
   "name": "@hub/package-2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "dependencies": {
-    "@hub/package-1": "1.0.0"
+    "@hub/package-1": "^1.0.1"
   },
   "scripts": {
     "test": "echo from package-2"
